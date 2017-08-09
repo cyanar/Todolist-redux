@@ -2,7 +2,7 @@
 Todolist little project completed by react+redux+webpack+json-server
 
 
-运行方法：
+运行方法：<br>
     `cnpm install `<br>
     `npm run dev ` <br>
     `npm run server` <br>
